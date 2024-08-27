@@ -42,6 +42,7 @@ while True:
 
 ## OUPUT:
 Client:
+
 ![Screenshot 2024-08-27 084424](https://github.com/user-attachments/assets/2dfc6a6c-bc27-4d6f-a0b1-dfed276f1a74)
 
 Server:
